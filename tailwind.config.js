@@ -11,6 +11,8 @@ module.exports = {
       yellow: "#FFBD35",
     },
 
+    darkMode: "class",
+
     screens: {
       xs: "540px",
     },
